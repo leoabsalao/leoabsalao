@@ -25,47 +25,49 @@
         <span>Spring<span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/html-5.png">
-        <br>
-        <span>HTML5</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/css3.png">
-        <br>
-        <span>CSS3</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/javascript.png">
-        <br>
-        <span>JavaScript</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/angularjs.png">
-        <br>
-        <span>Angular</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/net-framework.png"/>
-        <br>
-        <span>.Net Core</span>
-      </td>      
-    </tr>
-    <tr>
-      <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/react-native.png">
         <br>
         <span>React</span>
-      </td>
+      </td>     
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/nodejs.png">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
         <br>
-        <span>Node.js</span>
-      </td>
+        <span>VS Code</span>
+      </td>       
+    </tr>
+    <tr>
       <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/python.png">
         <br>
         <span>Python</span>
+      </td>   
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/net-framework.png"/>
+        <br>
+        <span>.Net Core</span>
       </td>    
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/angularjs.png">
+        <br>
+        <span>Angular</span>
+      </td>      
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/javascript.png">
+        <br>
+        <span>JavaScript</span>
+      </td> 
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/html-5.png">
+        <br>
+        <span>HTML5</span>
+      </td>       
+    </tr>    
+    <tr>
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/css3.png">
+        <br>
+        <span>CSS3</span>
+      </td>  
       <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/wordpress.png">
         <br>
@@ -85,12 +87,7 @@
         <img height="64px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/>
         <br>
         <span>SQL Server</span>
-      </td>     
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-        <br>
-        <span>VS Code</span>
-      </td>           
+      </td>               
     </tr>
   </tbody>
 </table>
