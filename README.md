@@ -2,18 +2,13 @@
 
 
 :pushpin: Moro em Recife - PE<br>
-🧑‍💼 Meu cargo atualmente é de Analista de Sistemas por uma empresa prestadora de serviços em órgão público (Tribunal de Justiça de PE)<br> 
-:computer: Exerço as atividades de Back-End, principalmente com atividades em Banco de Dados (SyBase - SQL Server) e codifico em Delphi<br>
+🧑‍💼 Meu cargo atualmente é de Analista de Desenvolvimento de Sistemas por uma empresa prestadora de serviços em órgão público (Tribunal de Justiça de PE)<br> 
+:computer: Exerço as atividades de FullStack, com atividades relacionadas com Java e Angular.<br>
 
 ## Linguagens, frameworks e bibliotecas que utilizo e aprecio:
 <table>
   <tbody>
-    <tr>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/delphi-ide.png">
-        <br>
-        <span>Delphi</span>
-      </td> 
+    <tr>      
       <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
         <br>
@@ -25,27 +20,17 @@
         <span>Spring<span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/react-native.png">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/delphi-ide.png">
         <br>
-        <span>React</span>
-      </td>     
+        <span>Delphi</span>
+      </td>      
       <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
         <br>
         <span>VS Code</span>
       </td>       
     </tr>
-    <tr>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/python.png">
-        <br>
-        <span>Python</span>
-      </td>   
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/net-framework.png"/>
-        <br>
-        <span>.Net Core</span>
-      </td>    
+    <tr>     
       <td width="25%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/angularjs.png">
         <br>
@@ -60,7 +45,12 @@
         <img height="64px" src="https://img.icons8.com/color/48/000000/html-5.png">
         <br>
         <span>HTML5</span>
-      </td>       
+      </td>   
+      <td width="25%" align="center">
+        <img height="64px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/>
+        <br>
+        <span>SQL Server</span>
+      </td>
     </tr>    
     <tr>
       <td width="25%" align="center">
@@ -82,12 +72,7 @@
         <img height="64px" src="https://img.icons8.com/color/48/000000/postgreesql.png">
         <br>
         <span>PostgreSql</span>
-      </td>    
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/>
-        <br>
-        <span>SQL Server</span>
-      </td>               
+      </td>                   
     </tr>
   </tbody>
 </table>
